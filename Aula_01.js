@@ -43,6 +43,14 @@ document.querySelector('img#hplogo').style.visibility = 'hidden'
 document.querySelector('span.bstn-hl-title').innerText = "seu texto aqui!"
 - Tirar um print-screen da página oficial do G1 e expalhar as "fake news" hehe! Brincadeira! 
 FIM AULA
+
+Links Adicionais
+
+Alura - HTML, CSS e JavaScript, quais as diferenças?
+https://www.alura.com.br/artigos/html-css-e-js-definicoes
+
+
+
 */
 
 alert("Olá, Mundo!");
