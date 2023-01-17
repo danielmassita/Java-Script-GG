@@ -49,7 +49,40 @@ Links Adicionais
 Alura - HTML, CSS e JavaScript, quais as diferenças?
 https://www.alura.com.br/artigos/html-css-e-js-definicoes
 
+O HTML é uma linaguagem de marcação. O CSS é uma linguagem de estilo. O JavaScript é uma linguagem de programação.
 
+- HTML (estrutura)
+
+<p>Este é um parágrafo!</p>
+
+<link rel="stylesheet" href="nome_do_arquivo.css"> // dentro do código html e head
+<script src="nome_do_arquivo_js.js"></script> // importar o JS no head do html
+
+<script> // dentro do código html
+    alert('Hello, World!')
+</script>
+
+
+- CSS (estética)
+
+seletor {
+    propriedade: valor;
+}
+
+p {
+    color: blue;
+}
+
+- JavaScript (linguagem de programação)
+alert('Hello, World!')
+
+HTML: linguagem de marcação utilizada para estruturar os elementos da página, como parágrafos, links, títulos, tabelas, imagens e até vídeos.
+
+CSS: linguagem de estilos utilizada para definir cores, fontes, tamanhos, posicionamento e qualquer outro valor estético para os elementos da página.
+
+Javascript: linguagem de programação utilizada para deixar a página com mais movimento, podendo atualizar elementos dinamicamente e lidar melhor com dados enviados e recebidos na página.
+
+O HTML é o esqueleto, composto dos ossos que o sustenta. O CSS é a pele, cabelo e roupas, criando o visual que realmente enxergamos quando olhamos para alguma pessoa. E por fim, o Javascript é o músculo, que dá movimento ao corpo.
 
 */
 
