@@ -30,13 +30,30 @@ NOSSOS PRIMEIROS SCRIPTS
 - <h1> Tag de título nível 1
 - <p> Tag de parágrafo
 - <style> Tag de estilo dentro do <head>, que configura geral
-- body {background-color: RGB, HSL, color}
-
-ASSUNTOS
-html:5
-<head> <title>
-<body> <h1> <p>
-
+- body {background-color: RGB(67, 67, 230)}
+- Você não programa em HTML, você não programa em CSS, mas vamos programar em Javascript...
+- No final do <body>, antes do </body> vamos adicionar a tag <script> pra rodar depois de carregar todo o body.
 
 */
 
+html:5
+
+<title>Meu Primeiro Programa</title>
+
+<style>
+body {
+    background-color: rgb(67, 67, 230);
+    color: #FFFFFF;
+    font: normal 20pt Arial;
+    }
+</style>
+
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Já me livrei da "maldição"...</p>
+</body>
+
+<script>
+    window.alert('Minha primeira mensagem...');
+    
+</script>
