@@ -8,3 +8,36 @@ Pois, para responder a essas e muitas outras perguntas, assista essa aula do Cur
 
 Aula do Curso de JavaScript e ECMAScript para Iniciantes, criado pelo professor Gustavo Guanabara para o canal CursoemVideo.
 */
+
+/* 
+PERGUNTAS AULA ANTERIOR
+- Qual a bibliografia recomendada? (2 livros (FLANAGAN e SILVA) e 2 sites guias de referência (ECMA e Mozilla)...
+- Precisa saber inglês? Não, é balela...
+- Quais dicas pra estudar? Ver aos vídeos + escrever e codar + ler manuais, refs., artigos + fazer anotações + estudar juntes + criar projetos próprios + PERSISTIR!
+- Quais programas pra instalar? Google Chrome (navegador) + VS Code (escritor de códigos) + Node.js (backend). 
+*/
+
+/*
+NOSSOS PRIMEIROS SCRIPTS
+- Tríade de documentos: conteúdo (HTML), design (CSS) e interatividade (JS).
+- Abrir o Google Chrome e VS Code.
+- Organizar bem uma pasta e arquivos (no meu caso, até no GitHub).
+- Criar arquivo ex001.html
+- digitar html no corpo do arquivo e selecionar html:5
+- Entender a <head> e a <body>, primeiro são configurações, título, etc... 
+- "Olá, Mundo!" é a primeira 
+*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
