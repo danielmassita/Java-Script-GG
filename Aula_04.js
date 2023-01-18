@@ -33,27 +33,6 @@ NOSSOS PRIMEIROS SCRIPTS
 - body {background-color: RGB(67, 67, 230)}
 - Você não programa em HTML, você não programa em CSS, mas vamos programar em Javascript...
 - No final do <body>, antes do </body> vamos adicionar a tag <script> pra rodar depois de carregar todo o body.
+- digitar window.alert('Meu primeiro script...');
 
 */
-
-html:5
-
-<title>Meu Primeiro Programa</title>
-
-<style>
-body {
-    background-color: rgb(67, 67, 230);
-    color: #FFFFFF;
-    font: normal 20pt Arial;
-    }
-</style>
-
-<body>
-    <h1>Olá, Mundo!</h1>
-    <p>Já me livrei da "maldição"...</p>
-</body>
-
-<script>
-    window.alert('Minha primeira mensagem...');
-    
-</script>
