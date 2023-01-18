@@ -55,7 +55,7 @@ Angular, AngularJS, React (facebook), Vue (usam o JS em outro patamar), mas é n
 
 TODAS ESSAS TECNOLOGIAS só podem ser abertas após um domínio sério do JavaScript, para não nos tornarmos um mero "copiador de código". 
 
-FrameWork, Biblioteca, SDK?
+FrameWork, Biblioteca, SDK? Futuras pesquisas... 
 */
 
 
