@@ -23,21 +23,20 @@ NOSSOS PRIMEIROS SCRIPTS
 - Abrir o Google Chrome e VS Code.
 - Organizar bem uma pasta e arquivos (no meu caso, até no GitHub).
 - Criar arquivo ex001.html
-- digitar html no corpo do arquivo e selecionar html:5
+- digitar html no corpo do arquivo e selecionar 
+- html:5
 - Entender a <head> e a <body>, primeiro são configurações, título, etc... 
-- "Olá, Mundo!" é a primeira 
-*/
+- "Olá, Mundo!" é a primeira coisa de qualquer código...
+- <h1> Tag de título nível 1
+- <p> Tag de parágrafo
+- <style> Tag de estilo dentro do <head>, que configura geral
+- body {background-color: RGB, HSL, color}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+ASSUNTOS
+html:5
+<head> <title>
+<body> <h1> <p>
+
+
+*/
 
